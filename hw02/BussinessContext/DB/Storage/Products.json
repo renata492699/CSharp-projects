@@ -1,0 +1,32 @@
+[
+  {
+    "Price": 4000,
+    "Id": 3,
+    "Name": "iphone",
+    "CategoryId": 0
+  },
+  {
+    "Price": 2000,
+    "Id": 4,
+    "Name": "nokia",
+    "CategoryId": 0
+  },
+  {
+    "Price": 5000,
+    "Id": 5,
+    "Name": "hp",
+    "CategoryId": 1
+  },
+  {
+    "Price": 46000,
+    "Id": 6,
+    "Name": "sony",
+    "CategoryId": 2
+  },
+  {
+    "Price": 4444,
+    "Id": 7,
+    "Name": "xiamoi",
+    "CategoryId": 0
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "CategoryId": 0,
+    "CategoryName": "phone",
+    "Count": 3
+  },
+  {
+    "CategoryId": 1,
+    "CategoryName": "pc",
+    "Count": 1
+  },
+  {
+    "CategoryId": 2,
+    "CategoryName": "tv",
+    "Count": 1
+  }
+]
