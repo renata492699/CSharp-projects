@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "170KiD8seGstm3eZr4jTVY0ztVblgZXv4YgNc7y7HBIPWhZVO0DyjNZdi5FUzzeg3VEmnLWgWCrYw4v9pHCXCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\urban\\source\\repos\\hw03-solution\\Assignment\\src\\PV178.Homeworks.HW03\\PV178.Homeworks.HW03.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\urban\\.nuget\\packages\\csvhelper\\15.0.2\\csvhelper.15.0.2.nupkg.sha512",
+    "C:\\Users\\urban\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
